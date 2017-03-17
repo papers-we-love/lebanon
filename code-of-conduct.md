@@ -14,6 +14,7 @@ Need help?
 If you are experiencing harassment on or have concerns about content within the [GitHub repo](https://github.com/papers-we-love/papers-we-love), the **#paperswelove** IRC channel on Freenode, the **paperswelove.slack.com** Slack, or [PapersWeLove.org](http://paperswelove.org) please contact:
 
 - **Saeid Al-Wazzan** [saeid.wazzan+pwl@nonsingular.net](mailto:saeid.wazzan+pwl@nonsingular.net)
+- **Christophe Zoghbi** [christophe.zoghbi@gmail.com](mailto:christophe.zoghbi@gmail.com)
 - **All** [contact@paperswelove.org](mailto:contact@paperswelove.org)
 
 The organizers of your local Papers We Love meet-up/event are available to help you with any issues or concerns at live events.
