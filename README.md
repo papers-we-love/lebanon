@@ -11,5 +11,4 @@ We will be holding regular meetups in Lebanon and we hope you can join us!
 ### Contact
 
 - Saeid Al-Wazzan [github](https://github.com/saeidw) | [twitter](https://twitter.com/saeidw) | [email](mailto:saeid.wazzan+pwl@nonsingular.net)
-- Christophe Zoghbi [github](https://github.com/kristoffzoghbi)
-
+- Christophe Zoghbi [github](https://github.com/kristoffzoghbi) | [twitter](https://twitter.com/kristoffzoghbi) | [email](mailto:christophe.zoghbi@gmail.com)
