@@ -12,3 +12,19 @@ We will be holding regular meetups in Lebanon and we hope you can join us!
 
 - Saeid Al-Wazzan [github](https://github.com/saeidw) | [twitter](https://twitter.com/saeidw) | [email](mailto:saeid.wazzan+pwl@nonsingular.net)
 - Christophe Zoghbi [github](https://github.com/kristoffzoghbi) | [twitter](https://twitter.com/kristoffzoghbi) | [email](mailto:christophe.zoghbi@gmail.com)
+
+# لبنان
+
+هذا مستودع المصدر التابع لفرع لبنان من مجموعة Papers We Love. بصفتنا فرع محلي فنحن نتبع [القواعد السلوكية](https://github.com/papers-we-love/lebanon/blob/master/code-of-conduct.md) لPapers We Love.
+
+# المعلومات
+
+إن كنتم تدرسون أو تسكنون أو تعملون في لبنان وتحبون علوم الكمبيوتر فقد تستمتعون بقراءة ومناقشة الأبحاث العلمية في مجموعتنا.
+
+سنجتمع بانتظام في لبنان ونتمنى أن تنضموا إلينا!
+
+# الاتصال
+
+- سعيد الوزان [github](https://github.com/saeidw) | [twitter](https://twitter.com/saeidw) | [email](mailto:saeid.wazzan+pwl@nonsingular.net)
+- كريستوف الزغبي [github](https://github.com/kristoffzoghbi) | [twitter](https://twitter.com/kristoffzoghbi) | [email](mailto:christophe.zoghbi@gmail.com)
+
