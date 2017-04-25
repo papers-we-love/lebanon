@@ -10,6 +10,9 @@ We will be holding regular meetups in Lebanon and we hope you can join us!
 
 ### Contact
 
+We organize on a public Facebook group at [http://www.paperswelovelb.club](http://www.paperswelovelb.club).
+You can follow us on Twitter at [@paperswelovelb](https://twitter.com/paperswelovelb).
+
 - Saeid Al-Wazzan [github](https://github.com/saeidw) | [twitter](https://twitter.com/saeidw) | [email](mailto:saeid.wazzan+pwl@nonsingular.net)
 - Christophe Zoghbi [github](https://github.com/kristoffzoghbi) | [twitter](https://twitter.com/kristoffzoghbi) | [email](mailto:christophe.zoghbi@gmail.com)
 
@@ -24,6 +27,9 @@ We will be holding regular meetups in Lebanon and we hope you can join us!
 سنجتمع بانتظام في لبنان ونتمنى أن تنضموا إلينا!
 
 # الاتصال
+
+يتم تنظيم اللقاءات عبر مجموعتنا العامة على Facebook وعنوانها [http://www.paperswelovelb.club](http://www.paperswelovelb.club).
+يمكنكم متابعتنا عبر Twitter على حساب [@paperswelovelb](https://twitter.com/paperswelovelb).
 
 - سعيد الوزان [github](https://github.com/saeidw) | [twitter](https://twitter.com/saeidw) | [email](mailto:saeid.wazzan+pwl@nonsingular.net)
 - كريستوف الزغبي [github](https://github.com/kristoffzoghbi) | [twitter](https://twitter.com/kristoffzoghbi) | [email](mailto:christophe.zoghbi@gmail.com)
